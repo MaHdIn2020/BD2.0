@@ -1,0 +1,65 @@
+.container{
+        /* Frame 4 */
+    position: static;
+    width: 1280px;
+    height: 560px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 64;
+    padding: 80px 100px 80px 100px;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    margin: 160px 160px;
+}
+.container h3{
+    /* Bangladesh 2.0 */
+    position: static;
+    width: 622px;
+    height: 29px;
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.container h1{
+    /* Idea , innovation , vision and challenges in New Bangladesh. */
+    position: static;
+    width: 622px;
+    height: 201px;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.container button{
+    /* Explore New Bangladesh */
+    position: static;
+    width: 202px;
+    height: 22px;
+    /* Frame 2 */
+    position: static;
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+
+    background: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+    
+}
